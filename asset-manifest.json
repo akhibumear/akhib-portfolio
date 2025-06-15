@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/akhib-portfolio/static/css/main.acdc0f8d.css",
+    "main.js": "/akhib-portfolio/static/js/main.829dab74.js",
+    "index.html": "/akhib-portfolio/index.html",
+    "main.acdc0f8d.css.map": "/akhib-portfolio/static/css/main.acdc0f8d.css.map",
+    "main.829dab74.js.map": "/akhib-portfolio/static/js/main.829dab74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acdc0f8d.css",
+    "static/js/main.829dab74.js"
+  ]
+}
